@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhangobekli" alt="batuhangobekli" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=batuhangobekli" alt="batuhangobekli" /> </p>
 
 ## Hi there, I'm Batuhan 👋 
 - 🌍  I'm software engineer and iOS Developer.
