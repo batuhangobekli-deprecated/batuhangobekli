@@ -20,7 +20,7 @@
 ## 📌 Contact
 Feel free to contact me about anything I can help or collaborate on projects!<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhangobekli)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-göbekli-660161203/)
 
 [![Medium Badge](https://img.shields.io/badge/medium-%230054B5.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://batuhangobekli.medium.com)
 
