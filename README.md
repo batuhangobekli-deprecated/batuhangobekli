@@ -2,11 +2,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=batuhangobekli" alt="batuhangobekli" /> </p>
 
 ## Hi there, I'm Batuhan 👋 
-- 🌍  I'm software engineer and iOS developer.
+- 🌍  I'm software engineer and iOS engineer.
 - 🔭  I’m currently working [@Yemeksepeti](https://yemeksepeti.com)
 - 👯  I’m looking to collaborate on open-source projects!
-- 🌱  I’m currently learning Flutter, RxSwift and React Native.
-- 😄  Pronouns: he/him
+- 🌱  I’m currently learning Flutter and React Native.
 - ⚡   Fun fact: Heaviest object in the universe is Xcode Derived Data
 
 ## ⭐️ Technologies I like
