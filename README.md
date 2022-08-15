@@ -3,7 +3,7 @@
 
 ## Hi there, I'm Batuhan 👋 
 - 🌍  I'm software engineer and iOS engineer.
-- 🔭  I’m currently working [@Yemeksepeti](https://yemeksepeti.com)
+- 🔭  I’m currently working baraka
 - 👯  I’m looking to collaborate on open-source projects!
 - 🌱  I’m currently learning Flutter and React Native.
 - ⚡   Fun fact: Heaviest object in the universe is Xcode Derived Data
